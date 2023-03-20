@@ -1,0 +1,9 @@
+.notes {
+  padding: 3rem;
+  width: 100vw;
+  gap: 1rem;
+  justify-content: space-evenly;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  height: inherit;
+}

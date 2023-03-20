@@ -1,0 +1,22 @@
+.body {
+  background-color: rgb(118, 147, 145);
+  width: inherit;
+  height: 89.6vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: scroll;
+}
+
+.input {
+  margin: 2rem 0rem;
+  width: 20rem;
+  height: 2.5rem;
+}
+
+.input input {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  font-size: 1rem;
+}

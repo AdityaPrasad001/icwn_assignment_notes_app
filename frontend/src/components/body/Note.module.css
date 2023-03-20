@@ -1,0 +1,19 @@
+.note {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 0.5rem;
+  height: 15rem;
+  justify-content: space-between;
+}
+
+.actions {
+  display: flex;
+  width: 15rem;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.actions i {
+  color: rgb(77, 92, 96);
+}

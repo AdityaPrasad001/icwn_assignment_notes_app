@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: inherit;
+  max-height: 5rem;
+  align-items: center;
+  color: rgb(240, 247, 246);
+  background-color: rgb(33, 36, 41);
+}
+.navbar i {
+  font-size: 3rem;
+  margin-right: 0.5rem;
+}
